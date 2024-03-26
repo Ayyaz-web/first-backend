@@ -1,0 +1,19 @@
+{
+  "name": "backend-first",
+  "version": "1.0.0",
+  "description": "A Basic App to Deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "Ayyaz"
+  ],
+  "author": "Ayyaz Developer",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
